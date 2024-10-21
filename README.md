@@ -81,10 +81,21 @@ Information in proper text fields labeled with “Team Name”, “Played Match�
 ![image](standings3.png).
 
 # Results(Standings)
-Players name can be added typing in text area and then clicking “Edit” button and have opportunities to show saved players name  for a specific team choosing from Combo Box . 
+Players' names can be added by typing in the text area and then clicking the “Edit” button and having opportunities to show saved players' names  for a specific team choosing from Combo Box. 
 ![image](teaminfo1.png).
 ![image]teaminfo2.png).
 ![image](teaminfo3.png).
+
+# Results(Fixture)
+Teams are sequentially added to groups named “GROUP A”, “GROUP B”, “GROUP C” and “GROUP D” when a team is created in  the “Manage Team” tab in the application.
+![image](fixture.png).
+![image](teaminfo2.png).
+![image](teaminfo3.png).
+
+# Results(Database)
+Created Schema named “ teamdata” with five columns for storing team name, played match, win, point, player name in MySQL Workbench for storing information.
+![image](database.png).
+![image](databasetable.png).
 
 # Conclusion
 Our main motive for creating, developing, and building this project is to make the work easy for managing tournament teams. We applied various technologies and methods throughout this journey. This should be very useful and enjoyable as well. We faced so many difficulties in developing this project and our honorable mentor Hasi Saha mam helped us a lot. We learned new technologies, gained knowledge, and applied them to complete this project. We will work on this project and will make this project more functional soon.
