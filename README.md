@@ -59,28 +59,28 @@ Keyboard, and Mouse;
   * JCombobox
 
 # Results(intro)
-First tab of “Tournament Management System”.  After clicking “CREATE TOURNAMENT” it opens the second tab with four buttons named “MANAGE TEAMS”, “STANDINGS”, “TEAM INFO”, and “FIXTURE”.
+First tab of “Tournament Management System”.  After clicking “CREATE TOURNAMENT” it opens the second tab with four buttons named “MANAGE TEAMS”, “STANDINGS”, “TEAM INFO”, and “FIXTURE”.<br>
 ![image](create_tournament.png).
 
 # Results(Manage teams)
-A new team can be created by clicking “ADD TEAM” button  after giving the team name in beside text field 
+A new team can be created by clicking “ADD TEAM” button  after giving the team name in beside text field <br>
 ![image](manage_team1.png).<br>
 ![image](manage_team2.png).<br>
-The team added confirmation in the dialogue box and a new row was created for a new team in “Team name” table
+The team added confirmation in the dialogue box and a new row was created for a new team in “Team name” table<br>
 ![image](manage_team3.png).<br>
 ![image](manage_team4.png).<br>
-Selecting a row of the table named “TEAM NAME” for deleting a team. By clicking the “REMOVE TEAM” button it deletes all data for that team from  the Database.
+Selecting a row of the table named “TEAM NAME” for deleting a team. By clicking the “REMOVE TEAM” button it deletes all data for that team from  the Database.<br>
 ![image](manage_team5.png).<br>
 ![image](manage_team6.png).<br>
 # Results(Standings)
-Selecting a row by clicking the mouse of the standing table, information is fetched in the proper text field labeled with “Team Name”, “Played Match”, “Win”.
+Selecting a row by clicking the mouse of the standing table, information is fetched in the proper text field labeled with “Team Name”, “Played Match”, “Win”.<br>
 ![image](standings.png).<br>
 ![image](standings1.png).<br>
 Information in proper text fields labeled with “Team Name”, “Played Match”, and “Win” can be edited and after clicking the “Edit” button information will be saved in the Database as well as updated in the selected row of the table in application tab.<br>
 ![image](standings2.png).<br>
 ![image](standings3.png).<br>
 # Results(Standings)
-Players' names can be added by typing in the text area and then clicking the “Edit” button and having opportunities to show saved players' names  for a specific team choosing from Combo Box. 
+Players' names can be added by typing in the text area and then clicking the “Edit” button and having opportunities to show saved players' names  for a specific team choosing from Combo Box. <br>
 ![image](teaminfo1.png).<br>
 ![image](teaminfo2.png).<br>
 ![image](teaminfo3.png).<br>
