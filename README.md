@@ -63,9 +63,28 @@ First tab of “Tournament Management System”.  After clicking “CREATE TOURN
 ![image](create_tournament.png).
 
 # Results(Manage teams)
-New team can be created by clicking “ADD TEAM” button  after giving team name in besides text field 
+A new team can be created by clicking “ADD TEAM” button  after giving the team name in beside text field 
 ![image](manage_team1.png).
 ![image](manage_team2.png).
+The team added confirmation in the dialogue box and a new row was created for a new team in “Team name” table
+![image](manage_team3.png).
+![image](manage_team4.png).
+Selecting a row of the table named “TEAM NAME” for deleting a team. By clicking the “REMOVE TEAM” button it deletes all data for that team from  the Database.
+![image](manage_team5.png).
+![image](manage_team6.png).
+# Results(Standings)
+Selecting a row by clicking the mouse of the standing table, information is fetched in the proper text field labeled with “Team Name”, “Played Match”, “Win”.
+![image](standings.png).
+![image](standings1.png).
+Information in proper text fields labeled with “Team Name”, “Played Match”, and “Win” can be edited and after clicking the “Edit” button information will be saved in the Database as well as updated in the selected row of the table in application tab.
+![image](standings2.png).
+![image](standings3.png).
+
+# Results(Standings)
+Players name can be added typing in text area and then clicking “Edit” button and have opportunities to show saved players name  for a specific team choosing from Combo Box . 
+![image](teaminfo1.png).
+![image]teaminfo2.png).
+![image](teaminfo3.png).
 
 # Conclusion
 Our main motive for creating, developing, and building this project is to make the work easy for managing tournament teams. We applied various technologies and methods throughout this journey. This should be very useful and enjoyable as well. We faced so many difficulties in developing this project and our honorable mentor Hasi Saha mam helped us a lot. We learned new technologies, gained knowledge, and applied them to complete this project. We will work on this project and will make this project more functional soon.
