@@ -10,28 +10,6 @@ Tournament Management system for maintaining sports in a better and easier way. 
 * Display teams in group
 * Managing  team information
 
-# overview
-* The current tournament management system is fully based on paperwork and must manage all teams and players' records on paper.
-* Paperwork is a tedious job. There can be delays and the problem of human error in managing teams and providing resources.
-* Tournament Management System  can automate the process of sports.  It is useful for authorities that keep track of all the teams registered.
-* Performance, Efficiency, Control, Security, etc are better than the current  system.
-
-# Software Requirements
-
-Operating System:	Windows 10;
-Front End:			Java, Java Swing;
-Back End:			MySQL;
-IDE:				Netbeans;
-
-# Hardware Requirements
-
-Desktop PC or a Laptop;
-Operating System – Windows 10;
-Intel® CoreTM i3-6006U CPU @ 2.00GHz;
-4.00 GB RAM;
-64-bit operating system, x64-based processor;
-1024 x 768 monitor resolution;
-Keyboard, and Mouse;
 
 # Conclusion
 Our main motive for creating, developing, and building this project is to make the work easy for managing tournament teams. We applied various technologies and methods throughout this journey. This should be very useful and enjoyable as well. We faced so many difficulties in developing this project and our honorable mentor Hasi Saha mam helped us a lot. We learned new technologies, gained knowledge, and applied them to complete this project. We will work on this project and will make this project more functional soon.
