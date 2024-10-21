@@ -11,7 +11,7 @@ Tournament Management system for maintaining sports in a better and easier way. 
 * Managing  team information
 
 # overview
-* Current tournament management system is fully based on paperwork and must manage all teams and players' records on paper.
+* The current tournament management system is fully based on paperwork and must manage all teams and players' records on paper.
 * Paperwork is a tedious job. There can be delays and the problem of human error in managing teams and providing resources.
 * Tournament Management System  can automate the process of sports.  It is useful for authorities that keep track of all the teams registered.
 * Performance, Efficiency, Control, Security, etc are better than the current  system.
@@ -32,68 +32,6 @@ Intel® CoreTM i3-6006U CPU @ 2.00GHz;
 64-bit operating system, x64-based processor;
 1024 x 768 monitor resolution;
 Keyboard, and Mouse;
-
-# Architecture
-![image](Architecture.png)
-
-# Background study
-* Java
-* Java awt package
-* Java Swing package
-* Jframe form in Netbeans
-* MySQL with Workbench
-* Database query
-* Graphics using canvas
-
-# Methods and packages
-* Awt package
-  * sub AWTEvent management methods
-* Java Swing packages
-  * JFrame
-  * JPanel
-  * Jlabel
-  * Jbutton
-  * JTextfield
-  * Jtextarea
-  * Jtable
-  * JCombobox
-
-# Results(intro)
-First tab of “Tournament Management System”.  After clicking “CREATE TOURNAMENT” it opens the second tab with four buttons named “MANAGE TEAMS”, “STANDINGS”, “TEAM INFO”, and “FIXTURE”.<br>
-![image](create_tournament.png).
-
-# Results(Manage teams)
-A new team can be created by clicking “ADD TEAM” button  after giving the team name in beside text field <br>
-![image](manage_team1.png).<br>
-![image](manage_team2.png).<br>
-The team added confirmation in the dialogue box and a new row was created for a new team in “Team name” table<br>
-![image](manage_team3.png).<br>
-![image](manage_team4.png).<br>
-Selecting a row of the table named “TEAM NAME” for deleting a team. By clicking the “REMOVE TEAM” button it deletes all data for that team from  the Database.<br>
-![image](manage_team5.png).<br>
-![image](manage_team6.png).<br>
-# Results(Standings)
-Selecting a row by clicking the mouse of the standing table, information is fetched in the proper text field labeled with “Team Name”, “Played Match”, “Win”.<br>
-![image](standings.png).<br>
-![image](standings1.png).<br>
-Information in proper text fields labeled with “Team Name”, “Played Match”, and “Win” can be edited and after clicking the “Edit” button information will be saved in the Database as well as updated in the selected row of the table in application tab.<br>
-![image](standings2.png).<br>
-![image](standings3.png).<br>
-# Results(Standings)
-Players' names can be added by typing in the text area and then clicking the “Edit” button and having opportunities to show saved players' names  for a specific team choosing from Combo Box. <br>
-![image](teaminfo1.png).<br>
-![image](teaminfo2.png).<br>
-![image](teaminfo3.png).<br>
-
-# Results(Fixture)
-Teams are sequentially added to groups named “GROUP A”, “GROUP B”, “GROUP C” and “GROUP D” when a team is created in  the “Manage Team” tab in the application.
-![image](fixture.png).<br>
-
-# Results(Database)
-Created a Schema named “ teamdata” with five columns for storing team name, played match, win, point, and player name in MySQL Workbench for storing information.
-![image](database.png).<br>
-![image](databasetable.png).<br>
-the database is uploaded as [Database File to import](teamdata.sql)
 
 # Conclusion
 Our main motive for creating, developing, and building this project is to make the work easy for managing tournament teams. We applied various technologies and methods throughout this journey. This should be very useful and enjoyable as well. We faced so many difficulties in developing this project and our honorable mentor Hasi Saha mam helped us a lot. We learned new technologies, gained knowledge, and applied them to complete this project. We will work on this project and will make this project more functional soon.
