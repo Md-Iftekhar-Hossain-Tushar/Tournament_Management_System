@@ -11,7 +11,7 @@ Tournament Management system for maintaining sports in a better and easier way. 
 * Managing  team information
 
 # overview
-* Current tournament management system is fully based on paper work and must manage all teams and players' records on paper.
+* Current tournament management system is fully based on paperwork and must manage all teams and players' records on paper.
 * Paperwork is a tedious job. There can be delays and the problem of human error in managing teams and providing resources.
 * Tournament Management System  can automate the process of sports.  It is useful for authorities that keep track of all the teams registered.
 * Performance, Efficiency, Control, Security, etc are better than the current  system.
@@ -60,7 +60,7 @@ Keyboard, and Mouse;
 
 # Results(intro)
 First tab of “Tournament Management System”.  After clicking “CREATE TOURNAMENT” it opens the second tab with four buttons named “MANAGE TEAMS”, “STANDINGS”, “TEAM INFO”, and “FIXTURE”.
-![image](create tournament.png).
+![image](create_tournament.png).
 
 # Conclusion
 Our main motive for creating, developing, and building this project is to make the work easy for managing tournament teams. We applied various technologies and methods throughout this journey. This should be very useful and enjoyable as well. We faced so many difficulties in developing this project and our honorable mentor Hasi Saha mam helped us a lot. We learned new technologies, gained knowledge, and applied them to complete this project. We will work on this project and will make this project more functional soon.
