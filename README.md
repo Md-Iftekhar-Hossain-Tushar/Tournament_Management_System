@@ -93,9 +93,10 @@ Teams are sequentially added to groups named “GROUP A”, “GROUP B”, “GR
 ![image](teaminfo3.png).
 
 # Results(Database)
-Created Schema named “ teamdata” with five columns for storing team name, played match, win, point, player name in MySQL Workbench for storing information.
+Created a Schema named “ teamdata” with five columns for storing team name, played match, win, point, and player name in MySQL Workbench for storing information.
 ![image](database.png).
 ![image](databasetable.png).
+the database is uploaded as [Database File to import](teamdata.sql)
 
 # Conclusion
 Our main motive for creating, developing, and building this project is to make the work easy for managing tournament teams. We applied various technologies and methods throughout this journey. This should be very useful and enjoyable as well. We faced so many difficulties in developing this project and our honorable mentor Hasi Saha mam helped us a lot. We learned new technologies, gained knowledge, and applied them to complete this project. We will work on this project and will make this project more functional soon.
