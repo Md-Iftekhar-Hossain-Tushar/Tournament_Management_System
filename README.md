@@ -82,14 +82,12 @@ Information in proper text fields labeled with “Team Name”, “Played Match�
 # Results(Standings)
 Players' names can be added by typing in the text area and then clicking the “Edit” button and having opportunities to show saved players' names  for a specific team choosing from Combo Box. 
 ![image](teaminfo1.png).<br>
-![image]teaminfo2.png).<br>
+![image](teaminfo2.png).<br>
 ![image](teaminfo3.png).<br>
 
 # Results(Fixture)
 Teams are sequentially added to groups named “GROUP A”, “GROUP B”, “GROUP C” and “GROUP D” when a team is created in  the “Manage Team” tab in the application.
 ![image](fixture.png).<br>
-![image](teaminfo2.png).<br>
-![image](teaminfo3.png).<be>
 
 # Results(Database)
 Created a Schema named “ teamdata” with five columns for storing team name, played match, win, point, and player name in MySQL Workbench for storing information.
