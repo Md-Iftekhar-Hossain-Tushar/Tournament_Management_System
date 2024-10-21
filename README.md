@@ -62,6 +62,11 @@ Keyboard, and Mouse;
 First tab of “Tournament Management System”.  After clicking “CREATE TOURNAMENT” it opens the second tab with four buttons named “MANAGE TEAMS”, “STANDINGS”, “TEAM INFO”, and “FIXTURE”.
 ![image](create_tournament.png).
 
+# Results(Manage teams)
+New team can be created by clicking “ADD TEAM” button  after giving team name in besides text field 
+![image](manage_team1.png).
+![image](manage_team2.png).
+
 # Conclusion
 Our main motive for creating, developing, and building this project is to make the work easy for managing tournament teams. We applied various technologies and methods throughout this journey. This should be very useful and enjoyable as well. We faced so many difficulties in developing this project and our honorable mentor Hasi Saha mam helped us a lot. We learned new technologies, gained knowledge, and applied them to complete this project. We will work on this project and will make this project more functional soon.
 
