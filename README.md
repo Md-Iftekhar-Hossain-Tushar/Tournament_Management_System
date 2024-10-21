@@ -18,18 +18,22 @@ Tournament Management system for maintaining sports in a better and easier way. 
 
 # Software Requirements
 
-Operating System	Windows 10
-Front End			Java, Java Swing
-Back End			MySQL
-IDE					Netbeans
+Operating System:	Windows 10;
+Front End:			Java, Java Swing;
+Back End:			MySQL;
+IDE:				Netbeans;
 
 # Hardware Requirements
 
-Desktop PC or a Laptop
-Operating System – Windows 10
-Intel® CoreTM i3-6006U CPU @ 2.00GHz
-4.00 GB RAM
-64-bit operating system, x64 based processor
-1024 x 768 monitor resolution
-Keyboard and Mouse
-![image](https://github.com/user-attachments/assets/69a0f8c0-aa95-4107-9adc-8526e4cb7530)
+Desktop PC or a Laptop;
+Operating System – Windows 10;
+Intel® CoreTM i3-6006U CPU @ 2.00GHz;
+4.00 GB RAM;
+64-bit operating system, x64-based processor;
+1024 x 768 monitor resolution;
+Keyboard, and Mouse;
+
+# Architecture
+![image](Architecture.png)
+
+
