@@ -36,4 +36,24 @@ Keyboard, and Mouse;
 # Architecture
 ![image](Architecture.png)
 
+# Background study
+* Java
+* Java awt package
+* Java Swing package
+* Jframe form in Netbeans
+* MySQL with Workbench
+* Database query
+* Graphics using canvas
+
+# Methods and packages
+* Awt package
+ * sub AWTEvent management methods
+* Java Swing packages
+ * JFrame
+ * JPanel
+ * Jlabel
+ * Jbutton
+ * JTextfield
+
+
 
