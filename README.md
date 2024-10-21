@@ -59,11 +59,10 @@ Keyboard, and Mouse;
   * JCombobox
 
 # Results(intro)
-First tab of “Tournament Management System” .  After clicking “CREATE TOURNAMENT” it opens second tab with four button named “MANAGE TEAMS”, “STANDINGS”, “TEAM INFO”, “FIXTURE”.
-![image](create tournament.png)
+First tab of “Tournament Management System”.  After clicking “CREATE TOURNAMENT” it opens the second tab with four buttons named “MANAGE TEAMS”, “STANDINGS”, “TEAM INFO”, and “FIXTURE”.
+![image](create tournament.png).
 
 # Conclusion
-Our main motive for creating, developing, and building this project is to make the work easy for managing tournament teams. We applied various technologies and methods throughout this journey. This should be very useful and enjoyable as well. We faced so many difficulties in developing this project and our honorable mentor Hasi Saha mam helped us a lot. We learned new technologies, gained knowledge, and applied them to complete this project. We will work on this project and will make this project more functional in the near future.
-![image](https://github.com/user-attachments/assets/a7f72da5-1a5e-4247-8a29-ab0610f2ebc1)
+Our main motive for creating, developing, and building this project is to make the work easy for managing tournament teams. We applied various technologies and methods throughout this journey. This should be very useful and enjoyable as well. We faced so many difficulties in developing this project and our honorable mentor Hasi Saha mam helped us a lot. We learned new technologies, gained knowledge, and applied them to complete this project. We will work on this project and will make this project more functional soon.
 
 
