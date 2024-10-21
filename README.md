@@ -65,37 +65,72 @@ First tab of “Tournament Management System”.  After clicking “CREATE TOURN
 # Results(Manage teams)
 A new team can be created by clicking “ADD TEAM” button  after giving the team name in beside text field 
 ![image](manage_team1.png).
+
+
 ![image](manage_team2.png).
+
+
 The team added confirmation in the dialogue box and a new row was created for a new team in “Team name” table
 ![image](manage_team3.png).
+
+
 ![image](manage_team4.png).
+
+
 Selecting a row of the table named “TEAM NAME” for deleting a team. By clicking the “REMOVE TEAM” button it deletes all data for that team from  the Database.
 ![image](manage_team5.png).
+
+
 ![image](manage_team6.png).
+
+
 # Results(Standings)
 Selecting a row by clicking the mouse of the standing table, information is fetched in the proper text field labeled with “Team Name”, “Played Match”, “Win”.
 ![image](standings.png).
+
+
 ![image](standings1.png).
+
+
 Information in proper text fields labeled with “Team Name”, “Played Match”, and “Win” can be edited and after clicking the “Edit” button information will be saved in the Database as well as updated in the selected row of the table in application tab.
 ![image](standings2.png).
+
+
 ![image](standings3.png).
+
 
 # Results(Standings)
 Players' names can be added by typing in the text area and then clicking the “Edit” button and having opportunities to show saved players' names  for a specific team choosing from Combo Box. 
 ![image](teaminfo1.png).
+
+
 ![image]teaminfo2.png).
+
+
 ![image](teaminfo3.png).
+
+
 
 # Results(Fixture)
 Teams are sequentially added to groups named “GROUP A”, “GROUP B”, “GROUP C” and “GROUP D” when a team is created in  the “Manage Team” tab in the application.
 ![image](fixture.png).
+
+
 ![image](teaminfo2.png).
+
+
 ![image](teaminfo3.png).
+
+
 
 # Results(Database)
 Created a Schema named “ teamdata” with five columns for storing team name, played match, win, point, and player name in MySQL Workbench for storing information.
 ![image](database.png).
+
+
 ![image](databasetable.png).
+
+
 the database is uploaded as [Database File to import](teamdata.sql)
 
 # Conclusion
