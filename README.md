@@ -47,13 +47,13 @@ Keyboard, and Mouse;
 
 # Methods and packages
 * Awt package
- * sub AWTEvent management methods
+  * sub AWTEvent management methods
 * Java Swing packages
- * JFrame
- * JPanel
- * Jlabel
- * Jbutton
- * JTextfield
+  * JFrame
+  * JPanel
+  * Jlabel
+  * Jbutton
+  * JTextfield
 
 
 
